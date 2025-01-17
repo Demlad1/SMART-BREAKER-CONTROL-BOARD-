@@ -1,4 +1,4 @@
-/* Written by ... */
+/* Written by DEMLAD */
 
 #include "sb.h"
 #include <TinyGsmClient.h>
